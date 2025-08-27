@@ -8,7 +8,7 @@ The DUT implements a configurable vending machine controller supporting multiple
 - Validate APB-based register interface operations  
 - Ensure correct dispense logic and change calculation  
 - Check error scenarios (invalid item, underpayment, out-of-stock)  
-- Achieve functional and code coverage for sign-off  
+- Achieve Coverage
 
 ## Verification Environment
 - *Methodology:* UVM (Universal Verification Methodology)  
